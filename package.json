@@ -1,11 +1,11 @@
 {
-  "name": "practicing-css",
+  "name": "blog-api",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server3.js"
   },
   "keywords": [],
   "author": "",
@@ -16,10 +16,10 @@
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
-    "express-validation": "^4.1.1",
     "express-validator": "^7.3.1",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.2.3",
     "multer": "^2.1.1"
   }
 }
+
